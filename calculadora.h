@@ -10,4 +10,5 @@ typedef struct {
 char *getFormaInFixa(char *Str);    // Retorna a forma infixa de Str (pos-fixa)
 float getValor(char *Str);          // Calcula o valor de Str (na forma pos-fixa)
 
+
 #endif
